@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Dr. Justin Goldston Knowledge Graph Index"
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+    title: "Dr."
+date-released: 2026-03-22
+version: 1.0.0
+url: "https://github.com/GoldstonianConcordanceBible/goldston-knowledge-graph"
