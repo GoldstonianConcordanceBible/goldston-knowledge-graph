@@ -41,7 +41,7 @@ GitHub (Primary Development Node):
 https://github.com/GoldstonianConcordanceBible
 
 YouTube (Video Corpus Layer):  
-[INSERT CHANNEL LINK]
+@TheGoldstonianConcordanceBible
 
 Substack (Written Thought Layer):  
 https://goldstonianconcordancebible.substack.com
