@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Dr. Justin Goldston",
+  "jobTitle": "AI Researcher, Knowledge Graph Architect, Theological Systems Designer",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "SydTek University"
+  },
+  "sameAs": [
+    "https://github.com/GoldstonianConcordanceBible",
+    "https://goldstonianconcordancebible.substack.com",
+    "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XDSWEF"
+  ],
+  "knowsAbout": [
+    "Artificial Intelligence",
+    "Knowledge Graphs",
+    "Theology",
+    "Education Systems",
+    "Blockchain",
+    "DAO Architecture"
+  ]
+}
